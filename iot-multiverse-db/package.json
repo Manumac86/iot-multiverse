@@ -1,24 +1,22 @@
 {
-  "name": "iot-multiverse",
+  "name": "iot-multiverse-db",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Simple IoT Platform - DB Module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "node preinstall.js"
+    "lint": "standard"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Manumac86/iot-multiverse.git"
   },
-  "keywords": [
-    "IoT",
-    "NodeJS"
-  ],
   "author": "@manumac86",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Manumac86/iot-multiverse/issues"
   },
-  "homepage": "https://github.com/Manumac86/iot-multiverse#readme"
+  "homepage": "https://github.com/Manumac86/iot-multiverse#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
 }
