@@ -1,0 +1,34 @@
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# React
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+# Dependency directories
+node_modules
+
+# dotenv environment variables file
+.env
+.env.test
+.env*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Optional eslint cache
+.eslintcache

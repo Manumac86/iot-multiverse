@@ -1,0 +1,23 @@
+{
+  "name": "iot-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manumac86/iot-nodejs.git"
+  },
+  "keywords": [
+    "IoT",
+    "NodeJS"
+  ],
+  "author": "@manumac86",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manumac86/iot-nodejs/issues"
+  },
+  "homepage": "https://github.com/Manumac86/iot-nodejs#readme"
+}
