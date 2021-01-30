@@ -1,0 +1,22 @@
+{
+  "name": "iot-multiverse-db",
+  "version": "1.0.0",
+  "description": "A Simple IoT Platform - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manumac86/iot-multiverse.git"
+  },
+  "author": "@manumac86",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manumac86/iot-multiverse/issues"
+  },
+  "homepage": "https://github.com/Manumac86/iot-multiverse#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
